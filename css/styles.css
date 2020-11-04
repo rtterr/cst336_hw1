@@ -15,6 +15,7 @@ nav a { /* links within "nav container */
     color: white; /* by default, links are blue */
     background-color: #8abac9;
     border-radius:10px;
+    border:2px solid white;
 }
 
 nav a:hover{ /* pseudo class */
@@ -35,6 +36,7 @@ nav a:hover{ /* pseudo class */
      font-family: 'Turret Road', sans-serif;
      color:#ee5460;
      font-size: 4em;
+     text-shadow: 5px 5px black;
  }
  
  h2 {
@@ -52,6 +54,7 @@ nav a:hover{ /* pseudo class */
      color:white;
      text-align:left;
      line-height:1.5em;
+     border:2px solid white;
  }
  
  blockquote {
@@ -83,4 +86,8 @@ nav a:hover{ /* pseudo class */
 
  hr {
      margin: 20px 0px;
+ }
+ 
+ ul {
+     list-style-type:square;
  }
