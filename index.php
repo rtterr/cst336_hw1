@@ -55,7 +55,7 @@
             CST336 Internet Programming. 2020&copy;Terrado <br />
             <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
             It is used for academic purposes only.
-            <br /><br /><img src="img/csumb_logo.png" />
+            <br /><br /><img src="img/csumb_logo.png" alt="CSU Monterey Bay" />
         </footer>
         <!-- closing footer -->
         
