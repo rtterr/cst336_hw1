@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <!-- This is the head -->
 <!-- All styles and javascript go inside the head -->
@@ -53,7 +53,7 @@
         <footer>
             <hr>
             CST336 Internet Programming. 2020&copy;Terrado <br />
-            <strong>Disclaimer:</strong> The information in this webpage is fictitious. </br >
+            <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
             It is used for academic purposes only.
             <br /><br /><img src="img/csumb_logo.png" />
         </footer>
